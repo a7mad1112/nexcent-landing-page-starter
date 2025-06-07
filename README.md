@@ -17,7 +17,7 @@ This project is designed for **students learning front-end development**, especi
 ## 🎨 Figma Design
 
 Access the UI design on Figma here:  
-🔗 [View Figma Design]([https://www.figma.com/your-figma-link-here](https://www.figma.com/design/xGkPw3xDrXMu5mamocPtaR/Responsive-Landing-Page-Design-%7C-Website-Home-Page-Design-%7C-Agency-Website-UI-Design--Community-?node-id=1-2&t=yRAMs8qjBjyRtQZw-1))
+🔗 [View Figma Design](https://www.figma.com/design/xGkPw3xDrXMu5mamocPtaR/Responsive-Landing-Page-Design-%7C-Website-Home-Page-Design-%7C-Agency-Website-UI-Design--Community-?node-id=1-2&t=yRAMs8qjBjyRtQZw-1)
 
 *(Note: You may need a Figma account to view the design.)*
 
